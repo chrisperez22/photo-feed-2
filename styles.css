@@ -1,5 +1,6 @@
 .header {
     display: flex ;
+  
     /* padding: 50px; */
 }
 .header p{
@@ -15,7 +16,7 @@ img{
 }
 .wrapper {
     text-align:center;
-    border: 1px solid black;
+    border: 1px solid rgb(181, 178, 178);
     margin: auto;
     width: 500px;
     height: 500px;
@@ -23,5 +24,5 @@ img{
     margin-bottom: 10px;
 }
 body {
-    background-color: grey;
+    background-color: rgb(3, 3, 3);
 }
